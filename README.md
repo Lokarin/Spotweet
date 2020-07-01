@@ -48,3 +48,8 @@ If you just want to remove the timer and use the script manually, simply comment
 If everything went well, you should find in your account an image like this:
 
 ![](SomeImages/Example.png)
+
+
+
+# Reported Errors:
+  - if the script tries to post the same song as the previous post, the script gives an error
