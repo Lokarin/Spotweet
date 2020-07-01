@@ -11,7 +11,7 @@ while x != 1:
     x=x-1 
     print("foi.")
 
-    time.sleep(20) # Put here, in seconds, the time you wanted Spotweet to publish the posts.
+    time.sleep(360) # Put here, in seconds, the time you wanted Spotweet to publish the posts.
 
 if x == 1:
     time.sleep(15)
