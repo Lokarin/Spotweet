@@ -25,6 +25,8 @@ In both scripts you will need to point out the paths for each script. The proces
   
   - timer.py
   ![](SomeImages/Timer1.png)
+ 
+ **3 - Have [Tweepy](https://github.com/tweepy/tweepy) installed**
 
 
 # Using It
