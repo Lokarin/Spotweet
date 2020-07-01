@@ -32,6 +32,7 @@ In both scripts you will need to point out the paths for each script. The proces
 Now that you've filled in the spaces with de APIs and PATHS, you can start making some changes to fit your taste.
 
 **A recommendation of mine would be to change the timer:**
+
 You can either increase or decrease the timer time, or you can simply disable it.
       
 To change the time, you will change the time.sleep() on line 14 in timer.py. Between the brackets, you will put in seconds the time you want the script to run.
