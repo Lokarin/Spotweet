@@ -5,7 +5,7 @@ This is a script originally created by the user [Hiperbolt](https://github.com/h
 
 
 # Requirements
-1 - Before actually using the script, you will need 4 items from Twitter:
+**1 - Before actually using the script, you will need 4 items from Twitter:**
   - Consumer Key
   - Consumer Secret
   - Acess Token
@@ -17,7 +17,7 @@ To find them, you will need to create a developer account on Twitter. The proces
 
 ![](SomeImages/TwitterDev.png)
 
-2 - Don't forget about PATHs!
+**2 - Don't forget about PATHs!**
 
 In both scripts you will need to point out the paths for each script. The process should be very simple, just replace these lines:
   - spotweet.py
