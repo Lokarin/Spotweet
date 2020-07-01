@@ -15,9 +15,16 @@ These things are some APIs that you will use to give permissions to the script s
 
 To find them, you will need to create a developer account on Twitter. The process is basically just filling in the spaces with the requested data [here](https://developer.twitter.com/en/apply-for-access).
 
+![](SomeImages/TwitterDev.png)
+
 2 - Don't forget about PATHs!
 
 In both scripts you will need to point out the paths for each script. The process should be very simple, just replace these lines:
+  - spotweet.py
+  ![](SomeImages/spotweet1.png)
+  
+  - timer.py
+  ![](SomeImages/Timer1.png)
 
 
 # Using It
@@ -27,9 +34,15 @@ Now that you've filled in the spaces with de APIs and PATHS, you can start makin
 **A recommendation of mine would be to change the timer:**
 You can either increase or decrease the timer time, or you can simply disable it.
       
-To change the time, you will change the time.sleep () on line 14 in timer.py. Between the brackets, you will put in seconds the time you want the script to run.
+To change the time, you will change the time.sleep() on line 14 in timer.py. Between the brackets, you will put in seconds the time you want the script to run.
 
+![](SomeImages/Timer.png)
 
 If you just want to remove the timer and use the script manually, simply comment these two lines on spotweet.py:
 
+![](SomeImages/spotweet.png)
 
+# And that's it!
+If everything went well, you should find in your account an image like this:
+
+![](SomeImages/Example.png)
