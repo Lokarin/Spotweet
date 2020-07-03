@@ -52,4 +52,5 @@ If everything went well, you should find in your account an image like this:
 
 
 # Reported Errors:
-  - if the script tries to post the same song as the previous post, the script gives an error
+  - if the script tries to post the same song as the previous post, the script gives an error;
+  - Does NOT not support accented letters and asian symbols.
